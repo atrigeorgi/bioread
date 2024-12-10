@@ -22,3 +22,16 @@ var/
 *.egg-info/
 .installed.cfg
 *.egg
+
+# Mac stuff
+.DS_Store
+
+# iPython notebooks for testing
+notebooks/
+
+# Local development python settings
+.python-version
+.cache/
+
+# vscode
+.vscode/
